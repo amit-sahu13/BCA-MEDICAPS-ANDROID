@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BCA MEDICAPS</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="redirectLogin">Not yet registered? SignUp now</string>
+    <string name="redirectRegister">Already have an account? LogIn now</string>
+</resources>
